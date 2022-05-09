@@ -1,0 +1,17 @@
+10 !no_orbitals
+-1 !l_bound
+1 !u_bound
+1.0E-04 !Gamma
+0.03 !Band_width
+1 !spacing
+0.0002 !omega
+5.6097 !g
+-0.0038 !dG
+0.00095 !Temp
+1 !dtc
+1 !dtq
+1590 !dim
+3000 !time_steps
+2 !1 for decoherence, 2 for no decoherence
+1 !num_cores
+1 !total trajectories
